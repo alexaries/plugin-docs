@@ -1,0 +1,84 @@
+{
+  "title": "插件小王子官方文档",
+  "author": "xu_yanfeng",
+  "description": "插件小王子的插件文档",
+  "extension": null,
+  "generator": "site",
+  "language": "zh-hans",
+  "isbn": "",
+  "links": {
+    "sharing": {
+      "all": null,
+      "facebook": null,
+      "google": null,
+      "twitter": null,
+      "weibo": null
+    },
+    "sidebar": {
+      "Creator官方文档": "http://docs.cocos.com/creator/manual/zh/"
+    }
+  },
+  "output": null,
+  "pdf": {
+    "fontSize": 12,
+    "footerTemplate": null,
+    "headerTemplate": null,
+    "margin": {
+      "bottom": 36,
+      "left": 62,
+      "right": 62,
+      "top": 36
+    },
+    "pageNumbers": false,
+    "paperSize": "a4"
+  },
+  "plugins": [
+    "-lunr",
+    "-search",
+    "-highlight",
+    "anchor-navigation-ex",
+    "advanced-emoji",
+    "codeblock-filename",
+    "disqus",
+    "expandable-chapters-small",
+    "include-codeblock",
+    "github",
+    "prism",
+    "sectionx",
+    "search-plus",
+    "splitter",
+    "theme-comscore",
+    "toggle-chapters",
+    "tbfed-pagefooter"
+  ],
+  "pluginsConfig": {
+    "prism": {
+      "css": [
+        "prism-themes/themes/prism-base16-ateliersulphurpool.light.css"
+      ]
+    },
+    "tbfed-pagefooter": {
+      "copyright": "Copyright &copy r00tuser 2017",
+      "modify_label": "该文件修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "anchor-navigation-ex": {
+      "isRewritePageTitle": true,
+      "isShowTocTitleIcon": true,
+      "tocLevel1Icon": "fa fa-hand-o-right",
+      "tocLevel2Icon": "fa fa-hand-o-right",
+      "tocLevel3Icon": "fa fa-hand-o-right"
+    },
+    "sectionx": {
+      "tag": "b"
+    },
+    "disqus": {
+      "shortName": "yourshorName"
+    }
+  },
+  "variables": {
+  },
+  "theme-default": {
+    "showLevel": true
+  }
+}
