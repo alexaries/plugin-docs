@@ -1,7 +1,3 @@
-# GameDevBook
-游戏开发知识手册
-
-
 ## 说明
 采用git-book+markdown编写文档
 
