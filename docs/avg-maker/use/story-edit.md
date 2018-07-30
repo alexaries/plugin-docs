@@ -2,5 +2,5 @@
 
 如图为编辑故事的界面
 
-![](/import.png)
+![](/assets/import.png)
 
