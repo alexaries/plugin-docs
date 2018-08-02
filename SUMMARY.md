@@ -9,7 +9,7 @@
     - [插件使用](docs/avg-maker/use/index.md)
       - [插件初始化](docs/avg-maker/use/init.md)
       - [插件设置](docs/avg-maker/use/set.md)
-      - [故事内容编辑](docs/avg-maker/use/story-edit.md)
+      - [故事内容效果预览](docs/avg-maker/use/story-edit.md)
       - [章节管理](docs/avg-maker/use/chapter-mgr.md)
       - [章节信息](docs/avg-maker/use/chapter-info.md)
       - [节点树](docs/avg-maker/use/inspector-tree.md)

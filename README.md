@@ -25,6 +25,11 @@ gitbook build
 gitbook serve
 ```
 ## 发布到GitHub上
+```
+sudo gh-pages -d _book
+```
+
+
 一般输入密码错误,会导致出现错误
 ```
 fatal: A branch named 'gh-pages' already exists.
@@ -38,4 +43,5 @@ fatal: A branch named 'gh-pages' already exists.
 npm uninstall gh-pages -g
 npm install gh-pages -g
 ```
+
 

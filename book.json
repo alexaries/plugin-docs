@@ -6,6 +6,22 @@
   "generator": "site",
   "language": "zh-hans",
   "isbn": "",
+  "plugins": [
+    "-lunr",
+    "-search",
+    "search-title",
+    "anchorjs",
+    "splitter",
+    "expandable-chapters-small@git+https://github.com/cocos-creator/gitbook-plugin-expandable-chapters-small.git"
+  ],
+  "pluginsConfig": {
+    "search": {
+      "maxIndexSize": 1000000000
+    },
+    "lunr": {
+      "maxIndexSize": 1000000000
+    }
+  },
   "links": {
     "sharing": {
       "all": null,
