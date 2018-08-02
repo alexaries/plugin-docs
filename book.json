@@ -9,12 +9,21 @@
   "plugins": [
     "-lunr",
     "-search",
+    "github-issue-feedback",
     "search-title",
     "anchorjs",
     "splitter",
-    "expandable-chapters-small@git+https://github.com/cocos-creator/gitbook-plugin-expandable-chapters-small.git"
+    "expandable-chapters-small@git+https://github.com/cocos-creator/gitbook-plugin-expandable-chapters-small.git",
+    "github"
   ],
   "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/tidys/plugin-docs"
+    },
+    "github-issue-feedback": {
+      "repo": "tidys/plugin-docs",
+      "branch": "master"
+    },
     "search": {
       "maxIndexSize": 1000000000
     },
