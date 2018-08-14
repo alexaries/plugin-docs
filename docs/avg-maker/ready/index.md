@@ -3,7 +3,7 @@
 ## 1.下载安装Cocos Creator软件
 
 下载地址：[http://www.cocos.com/creator](http://www.cocos.com/creator)   
-推荐版本：V2.x（目前官方并未发布该版本）
+推荐版本：V2.x
 
 ## 2. 新建avg项目
 
