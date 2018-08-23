@@ -21,5 +21,23 @@
       - [游戏运行/测试](docs/avg-maker/use/runGame.md)
     - [作品发布](docs/avg-maker/publish/index.md)  
     - [常见问题](docs/avg-maker/issue/index.md)  
-    
+    - [版本更新](docs/avg-maker/ver/index.md)
+        - [V1.0](docs/avg-maker/ver/V1_0.md)
+        
+- [文档库](docs/game-doc/index.md) 
+    - [美术](docs/game-doc/art/index.md)
+        - [开发基本要求](docs/game-doc/art/base.md)
+        - [开发分辨率](docs/game-doc/art/about-design-pixi.md)
+        - [SVN使用](docs/game-doc/art/svn.md)
+        - [常用技巧](docs/game-doc/art/skill/index.md)
+            - [九宫格](docs/game-doc/art/skill/9sprite.md)
+            - [位图](docs/game-doc/art/skill/bmfont.md)
+        - [命名常用词汇](docs/game-doc/art/artWord.md)
+        - [关于按钮](docs/game-doc/art/about-button.md)
+        - [资源规范](docs/game-doc/art/standard-res.md)
+        - [目录规范](docs/game-doc/art/standard-dir.md)
+        - [其他](docs/game-doc/art/others.md)    
+    - [客户端](docs/game-doc/client/index.md)
+        - [编码规范](docs/game-doc/client/code.md)       
+        
 
