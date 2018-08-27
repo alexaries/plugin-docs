@@ -25,6 +25,7 @@
     - [常见问题](docs/avg-maker/issue/index.md)  
     - [版本更新](docs/avg-maker/ver/index.md)
         - [V1.0](docs/avg-maker/ver/V1_0.md)
+    - [BUG反馈](docs/avg-maker/issue/bug.md)    
         
 - [文档库](docs/game-doc/index.md) 
     - [美术](docs/game-doc/art/index.md)
