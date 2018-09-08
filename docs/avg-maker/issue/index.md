@@ -14,3 +14,16 @@
 原则上尽量自己建立一个字体文件存放目录,方便统一管理
 3. 在字体文件选择列表里面选择自己刚刚导入的字体文件就行了
 4. 特别需要注意的是,尽量一个作品不要使用过多的ttf字体,这样会导致作品的资源体积变大,因此请慎重使用ttf字体
+
+## 登录七牛云存储一直提示失败
+总是提示
+    
+    getaddrinfo ENOTFOUND rsf.qbox.me rsf.qbox.me:80
+    
+修改hosts
+
+    183.95.81.3	rsf.qbox.me
+    
+    
+- windows:   C:\Windows\System32\drivers\etc
+- mac : 使用finder打开目录：  /etc/hosts    
