@@ -45,3 +45,7 @@
         
 - [CC-Runner](docs/web-runner/index.md)
     - [使用说明](docs/web-runner/use.md)
+    - [关于远程资源存放](docs/web-runner/remoteRes.md)
+    - [字段说明](docs/web-runner/word.md)
+        - [书架相关字段](docs/web-runner/book.md)
+        - [故事相关字段](docs/web-runner/story.md)
